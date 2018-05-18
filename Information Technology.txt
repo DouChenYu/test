@@ -1,0 +1,40 @@
+自己从22号开始看视频，学了不到一个月。到124
+binary   二进制
+runtime  运行时间
+buffer   缓冲区
+wrtie once  run anyway
+Python java PHP（Personal Home Page）
+python
+http 协议
+html Hyper Text Markup Language
+XML:eXtensible Markup Language
+W3C:word wide web consortiem  万维网联盟
+css Cascading Style Sheetss
+Graphical User interface (图形用户接口)
+DOM:Document Object Model(文档对象模型)
+DOM4J:dom for java   for =four=4;
+提高效率，简化书写，提高安全性。
+Operating System，简称OS
+CURD:它代表创建（Create）、更新（Update）、读取（Retrieve）和删除（Delete）操作。
+TCP/IP全称:Transmission Control Protocol / Internet Protocol
+UDP 是User Datagram Protocol的简称
+DB:DataBase(数据库)指长期保存在计算机的存储设备上，按照一定规则组织起来，可以被各种用户或应用共享的数据集合。
+SQL:结构化查询语言(Structured Query Language)
+JDBC:java database connectivity  是一套操作数据库的标准规范
+JSP:Java Server Pages. jsp=html+java
+JSTL（JavaServerPages Standard Tag Library）JSP标准标签库
+
+API就是操作系统留给应用程序的一个调用接口，应用程序通过调用操作系统的 API 而使操作系统去执行应用程序的命令（动作）。
+10.128.153.251
+linux 192.168.146.128
+oracle 192.168.230.128   1521    sqlplus scott/tiger@192.168.230.128:1521/orcl
+远程的登陆工具 secure shell client
+centos root 123456
+数据库 root root
+oracle password
+迁西孙家沟铁矿地下开采设计
+
+
+
+
+某物流公司的一个后台管理系统，
